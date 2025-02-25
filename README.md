@@ -1,3 +1,3 @@
 <h1>Bewerbung</h1>
 
-<h3>Vielen Dank für ihre Interesse :)</h3>
+<h3>Vielen Dank für Ihr Interesse :)</h3>
